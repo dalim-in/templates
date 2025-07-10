@@ -8,7 +8,7 @@ import { Footer } from '@/components/layout/footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://template-01-ui.dalim.in'),
+    metadataBase: new URL('https://template-02-ui.dalim.in'),
     alternates: {
         canonical: '/',
     },
